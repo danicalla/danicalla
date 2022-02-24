@@ -1,5 +1,6 @@
 .hide {
   display: none;
+  font-size: 72px;
 }
 
 .myDIV:hover + .hide {
