@@ -1,0 +1,16 @@
+.hide {
+  display: none;
+}
+
+.myDIV:hover + .hide {
+  display: block;
+  color: blue;
+  margin: auto;
+   padding: 0px;
+   text-align: left;
+   word-wrap: break-word;
+}
+
+.myDIV{
+  font-size: 2px;
+}
